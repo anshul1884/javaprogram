@@ -1,0 +1,7 @@
+public class Example                                                                                                                                                                                 
+	{                                                                                                                                                                                                
+		public static void m	ain(String args[] )                                                                                                                                                      
+		{                                                                                                                                                                                            
+			System.out.println("This is a simple java program.");                                                                                                                                    
+		}                                                                                                                                                                                            
+	}                                                                                                                                                                                                
