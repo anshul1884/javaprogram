@@ -6,9 +6,9 @@ public  class Ex_DIS
 		String sname;
 		int age;
 		DataInputStream ob = new DataInputStream (System.in);
-		System.out.println("Enter name");
+		System.out.println("Enter your name");
 		sname = ob.readLine();
-		System.out.println("Enter age");
+		System.out.println("Enter Your age");
 		age = integer.parseInt(ob.readLine());
 		System.out.println("Hello"+sname+ "Your age "+age);
 	}
